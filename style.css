@@ -1,0 +1,210 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.cabecalho {
+    position: fixed;
+    width: 100%;
+}
+
+.contato i {
+    padding-right: 10px;
+}
+.contato {
+    display: flex;
+    background: #2b5e2e;
+    color: #fff;
+    width: 100%;
+    height: 50px;
+    font-family: bookman old style;
+}
+.contato h1 {
+    padding-top: 17px;
+    margin-left: 200px;
+    padding-right: -px;
+    font-size: 13px;
+}
+
+.contato p {
+    padding-top: 17px;
+    font-size: 15px;
+    padding-left: 50px;
+    font-family: bookman old style;
+
+
+}
+
+.contato1 p {
+    margin-top: -19px;
+    font-size: 13px;
+    font-family: bookman old style;
+}
+.contato1 {
+    font-size: 10px;
+    margin: 20px 0 0 620px;
+}
+
+.contato1 i {
+    color: #fff;
+}
+
+.logo {
+/*  padding: 20px; */
+    margin: 25px 423px 0 250px;
+    font-family: bookman old style;
+    color: #217c27;
+}
+
+.logo2 {
+    margin: 50px 423px 0 630px;
+    font-family: bookman old style;
+    color: #217c27;
+}
+
+.menu {
+display: flex;
+width: 100%;
+height: 130px;
+position: fixed;
+background: #fff;
+}
+
+.menu a {
+    margin-top: 52px;
+    text-decoration: none;
+    color: rgb(102, 98, 98);
+    padding-right: 35px;
+}
+
+.menu a:hover {
+    color: #217c27;
+}
+
+/* inicio */
+
+.inicio {
+   background-image: url(inicio.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 600px;
+   width: 100%;
+}
+
+.sobre {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 450px;
+
+}
+
+.sobre h1 {
+    text-align: center;
+    color: #1f5723;
+}
+
+.sobre a {
+    text-decoration: none;
+    background: rgb(82, 134, 61);
+    padding: 10px;
+    width: 200px;
+    margin: 10px;
+    text-align: left;
+    text-align: center;
+    margin-left: 675px;
+    color: #fff;
+}
+
+.sobre p {
+    font-family: bookman old style;
+    text-align: center;
+}
+
+.sobre i {
+   padding-right: 10px;
+}
+
+.sobre a:hover {
+    background: #328a38; 
+}
+
+.sobre1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #3ea044;
+    color: #fff;
+    margin-top: -45px;
+    height: 610px;
+
+}
+
+.sobre1 h1 {
+    font-family: bookman old style;
+    text-align: center;
+    padding-top: 45px;
+}
+
+.sobre1 iframe {
+    padding-top: 30px;
+    height: 500px;
+    padding-bottom: 30px;
+}
+.sobre1 p {
+    font-family: bookman old style;
+    text-align: center;
+}
+
+.sobre1 a:hover {
+    color: rgb(64, 105, 47);
+}
+
+.sobre1 a {
+    text-decoration: none;
+    background: #fff;
+    padding: 8px;
+    width: 150px;
+    margin: 20px;
+    text-align: left;
+    text-align: center;
+    margin-left: 675px;
+    color: rgb(82, 134, 61);
+    margin-right: 665px;
+    border-radius: 5px;
+}
+
+.sobre1 i {
+    padding-right: 10px;
+}
+
+.logo2 {
+    padding: 30px;
+    margin: 30px 423px 0 630px;
+}
+
+.sobre3 {
+    background: #317c36;
+    color: #fff;
+    font-family: bookman old style;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.sobre3 div{
+    margin: 35px;
+}
+
+.sobre3 p {
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.sobre3 h1 {
+    margin-bottom: 18px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
